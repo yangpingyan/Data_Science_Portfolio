@@ -4,15 +4,7 @@ This is a repository of the projects I worked on or currently working on. It is 
  
 ## Projects:
  
-###  [Bitcoin Price Analysis](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/Bitcoin_Analysis/Bitcoin_Analysis.md)
-* Cross correlation analysis between Bitcoin Price and S&P500 price over time.
-* Granger causality test between Bitcoin and stock prices
-* Fitted ARIMA model on Bitcoin prices to forecast Bitcoin range of movement.
-* **Keywords**(R, Time Series, Causality, Quandl API)
-<img src="Bitcoin_Analysis/Bitcoin_Analysis_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-21-1.png" width="500">
- 
----
- 
+
 ###  [Exchange Rate Analysis During US Election - Under Construction](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/FX_Analysis_During_US_Election/main.ipynb)
 * Predicted US (2016) election victories as the voting results of each region becomes available.
 * Regressed states with results against polling data and predicted results for the remaining states
